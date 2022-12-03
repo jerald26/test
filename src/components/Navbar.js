@@ -54,7 +54,7 @@ const Navbar = () => {
               <li>
                 <a
                   className="block bg-white py-2 px-5 mb-3 hover:text-pink-600"
-                  href="#"
+                  href="#home"
                 >
                   Home
                 </a>
@@ -62,7 +62,7 @@ const Navbar = () => {
               <li>
                 <a
                   className="block bg-white py-2 px-5 mb-3 hover:text-pink-600"
-                  href="#"
+                  href="#about"
                 >
                   About
                 </a>
@@ -70,7 +70,7 @@ const Navbar = () => {
               <li>
                 <a
                   className="block bg-white py-2 px-5 mb-3 hover:text-pink-600"
-                  href="#"
+                  href="#products"
                 >
                   Products
                 </a>
@@ -78,7 +78,7 @@ const Navbar = () => {
               <li>
                 <a
                   className="block bg-white py-2 px-5 mb-3 hover:text-pink-600"
-                  href="#"
+                  href="#reviews"
                 >
                   Review
                 </a>
@@ -86,7 +86,7 @@ const Navbar = () => {
               <li>
                 <a
                   className="block bg-white py-2 px-5 hover:text-pink-600"
-                  href="#"
+                  href="#contact"
                 >
                   Contact
                 </a>
